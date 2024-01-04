@@ -22,6 +22,10 @@
 		"color": "#000000",
 		"theme": "dark"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mustan-ali/fire-obsidian.git"
+	},
 	"pricing": "Free",
 	"license": "MIT",
 	"contributes": {
