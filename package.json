@@ -1,0 +1,48 @@
+{
+	"name": "fire-obsidian",
+	"displayName": "Fire Obsidian",
+	"description": "Vibrant syntax on a sleek black backdrop inspired by One Dark Pro Darker theme in VS Code.",
+	"version": "0.0.1",
+	"publisher": "mustan",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"keywords": [
+		"dark",
+		"black",
+		"fire obsidian",
+		"dark theme",
+		"black theme"
+	],
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"pricing": "Free",
+	"license": "MIT",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Fire Obsidian",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Fire Obsidian-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5083fd68-b2d3-4842-aa3d-015512e66cc8",
+		"publisherId": "12e5df13-44a8-42cd-9598-e4452559295f",
+		"publisherDisplayName": "Mustan Ali",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1704383751142,
+		"pinned": false,
+		"preRelease": false
+	}
+}
